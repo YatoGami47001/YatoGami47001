@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin Toraman</h1>
-<h3 align="center">A passionate Full-Stack developer from Türkiye. I am Working on AI Engineering and Mobile Full-Stack Devolopments. If you want to collabrate with me you can add me on Linkedin</h3>
+<h3 align="center">A passionate Full-Stack developer from Türkiye. I am Working on AI Engineering and Mobile Full-Stack Devolopments. If you want to collabrate with me you can add me on Linkedin.</h3>
 
 - 🔭 I’m currently working on **Flow Project**
 
