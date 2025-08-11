@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin Toraman</h1>
-<h3 align="center">A passionate Full-Stack developer from Türkiye. I am Working on AI Engineering and Mobile Full-Stack Devolopments. If you want to collabrate with me you can add me on Linkedin.</h3>
-
+<h3 align="center">A passionate Full-Stack developer from Türkiye. </h3>
+I am Working on AI Engineering and Mobile Full-Stack Devolopment. I know dart and python programming languages. I am a entrepreneur and engineer. If you want to collabrate with me you can add me on Linkedln.
 - 🔭 I’m currently working on **Flow Project**
 
 - 🌱 I’m currently learning **LLMs and Mobile Programming**
